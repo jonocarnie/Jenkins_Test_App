@@ -11,6 +11,7 @@ namespace Jenkins_Test_App
         static void Main(string[] args)
         {
             Console.WriteLine("Hello there!");
+            Console.WriteLine("Additional line of text added in.");
         }
     }
 }
